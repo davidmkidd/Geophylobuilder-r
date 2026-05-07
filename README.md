@@ -1,10 +1,13 @@
 # Geophylobuilder-r
 Data, maps and code for GA Mammal Analysis
 
-## In R
-BuildGeoTree.r calculates node location
+# Building
 
-## In ArcGIS Pro
-1. Import nodes.shop
-2. Run Generate Geodetic Branch Python Workbook
-3. 
+1. In R, BuildGeoTree.r calculates node location
+
+2. In ArcGIS Pro
+   Open Generate Geodetic Branch Python Workbook, edit paths and run.
+   Open Area Clades Python Workbook, edit paths and run.
+   Open Vicariant Clades Python Workbook, edit paths and run.
+
+
